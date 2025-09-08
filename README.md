@@ -1,5 +1,9 @@
 # SPEECH-RECOGNITION-SYSTEM
 
+MENTOR NAME : NEELA SANTHOSH 
+DOMAIN : EMBEDDED SYSTEMS 
+INTERN ID: CT04DY586
+
 Task Description
 
 The task here is to design and implement a Speech Recognition System using an embedded microcontroller platform along
